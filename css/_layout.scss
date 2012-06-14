@@ -91,3 +91,15 @@ a {
     text-decoration: underline;
   }
 }
+
+.no-padding {
+  padding: 0;
+}
+
+@media all and (max-width: 500px) {
+  #sidebar,
+  #main {
+    clear:both;
+    width:100%;
+  }
+}
