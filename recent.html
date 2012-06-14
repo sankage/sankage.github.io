@@ -1,0 +1,16 @@
+---
+layout: 2-column
+title: Portfolio
+permalink: /portfolio/recent/
+---
+
+{% for post in site.posts limit: 10 %}
+<div class="post">
+  <h2>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </h2>
+  <div class="details">Posted in {{ post.category }} on {{ post.date | date:"%B %d, %Y" }}</div>
+  {{ post.content }}
+  <hr>
+</div>
+{% endfor %}

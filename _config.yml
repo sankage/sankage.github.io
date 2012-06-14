@@ -1,0 +1,7 @@
+permalink: /:title/
+markdown: rdiscount
+
+exclude: [docs, Rakefile, README.md, Gemfile, Gemfile.lock]
+
+category_dir: portfolio
+category_title_prefix: ""

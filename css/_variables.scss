@@ -1,0 +1,19 @@
+// Typography
+// -------------------------
+$sansFontFamily:        "Helvetica Neue", Helvetica, Arial, sans-serif !default;
+$serifFontFamily:       Georgia, "Times New Roman", Times, serif !default;
+$monoFontFamily:        Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$baseFontSize: 16px;
+$baseContentWidth: 960px;
+@mixin lineHeight($em: 1,$width: 960px){
+  $ratio: 1.61803399;
+  $size: $em * $baseFontSize;
+  line-height: $size*($ratio - (1/(2*$ratio))*(1-($width/(($size*$ratio)*($size*$ratio)))));
+}
+
+// Colors
+// -------------------------
+$background: #f5f5f5;
+$backgroundBorder: #dcdcdc;
+$backgroundBody: #fff;
+$colorLink: #3c96dd;

@@ -1,0 +1,10 @@
+---
+layout: 2-column
+title: Archives
+permalink: /portfolio/
+---
+<ul>
+  {% for post in site.posts %}
+    <li>{{ post.date | date:"%b %Y" }} &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
