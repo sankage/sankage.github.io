@@ -34,6 +34,9 @@ body > footer { border-top: 1px solid #dcdcdc; min-height: 3em; }
 a { text-decoration: none; color: #3c96dd; }
 a:hover { text-decoration: underline; }
 
+.no-padding { padding: 0; }
+
+@media all and (max-width: 500px) { #sidebar, #main { clear: both; width: 100%; } }
 p { margin: 1em 0; }
 
 h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }
