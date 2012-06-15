@@ -10,4 +10,5 @@ title: Portals
   <div class="details">Posted in {{ post.category }} on {{ post.date | date:"%B %d, %Y" }}</div>
   {{ post.content | markdownify | html_truncatewords }}
 </div>
+<hr>
 {% endfor %}

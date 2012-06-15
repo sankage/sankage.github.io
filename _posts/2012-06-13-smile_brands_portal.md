@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Smile Brands Portal
+date: 2012-06-13 12:56
 category: Portals
 ---
 
@@ -26,5 +27,16 @@ The advanced report breaks down and clusters the NPS buckets and the explanation
 
 ### Issue Tracking
 
+For this the client wanted a way to track actions taken to answer customer complaints.
+
+![Issues 1](/imgs/sb-issues-1.png)
+
+Managers and office staff have the ability to log actions they take to ameliorate patient issues.
+
+![Issues 2](/imgs/sb-issues-2.png)
 
 ### Redemption Rates
+
+The client wanted to keep track of the response rate to their survey and make it visible to their managers. For this we had to add a good amount of backend architecture (in part due to the limitations of the data available). It turned out well and the client liked it.
+
+![Redemption Rates](/imgs/sb-response.png)

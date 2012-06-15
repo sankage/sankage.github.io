@@ -14,16 +14,16 @@ github:[@sankage](https://github.com/sankage)
 
 **Lead Technical Architect and Developer**
 
-- Use of jQuery, PHP, and MySQL to create time and task management system
+- Use of jQuery, PHP, and MySQL to create [time and task management system](/timesheets/)
 - Use of HTML5 and HTML5 polyfills to allow for cross-browser compatibility
 - Create API classes to help speed development using 3rd-party Web Services
 - Co-implement a data-storage server using MySQL and SSL connections with fellow employees
 - Database schema design, implementation, and refinement
-- Development of corporate website redesign using static-site generation tool Jekyll
-- Frontend development for survey design, admin, and reporting tool
+- Development of [corporate website redesign](/website-redesign/) using static-site generation tool Jekyll
+- Frontend development for [survey design, admin, and reporting tool](/survey-and-reporting-tool/)
 - Pair programmed with other employees for Javascript development
-- Rebuild of client reporting tool from CakePHP to Ruby-on-Rails
-- Implemented data visualizations with Raphaël.js
+- Rebuild of [client reporting tool](/smile_brands_portal/) from CakePHP to Ruby-on-Rails
+- Implemented [data visualizations](/charts-and-graphs/) with Raphaël.js
 - Development of cron tasks (rake and php) to update client reporting tools
 - Application deployment using Heroku
 - Machine Learning involving the Naïve Bayesian Classifier
@@ -61,7 +61,7 @@ Software:
 - **OS:** OSX, Ubuntu Linux, Windows7, WindowsXP
 - **Office:** MS Office, Pages, Keynote, Numbers
 - **Design:** Adobe Creative Suite, MySQL Workbench
-- **Editors:** TextMate, Eclipse, Notepad++
+- **Editors:** Sublime Text 2, TextMate, Eclipse, Notepad++
 - **Version Control:** git, github
 
 ## HONORS & ACTIVITIES

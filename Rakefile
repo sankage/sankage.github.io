@@ -79,5 +79,5 @@ def get_stdin(message)
 end
 
 def url_from(value)
-  value.downcase.gsub(/\s+/, "-").sub(/^#{"-"}*/, "").sub(/#{"-"}*$/, "").squeeze("-")
+  value.gsub(/&/, "and").downcase.gsub(/\s+/, "-").sub(/^#{"-"}*/, "").sub(/#{"-"}*$/, "").squeeze("-")
 end

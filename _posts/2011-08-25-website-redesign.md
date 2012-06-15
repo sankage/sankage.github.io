@@ -2,7 +2,7 @@
 layout: post
 title: Website Redesign
 date: 2011-08-25 18:15
-category: Redesign
+category: Design
 ---
 
 In an effort to help drive change in Infosurv's website design, I rebuilt it using the [Jekyll](https://github.com/mojombo/jekyll) static-site generator. I took most of the original design's components and made tweeks to them to both look and function better. It was my desire to remove alot of the cruft that has built up and make our site faster for end users and less server/database intensive on the backend.
