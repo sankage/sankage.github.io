@@ -37,6 +37,7 @@ a:hover { text-decoration: underline; }
 .no-padding { padding: 0; }
 
 @media all and (max-width: 500px) { #sidebar, #main { clear: both; width: 100%; } }
+@media print { body > header, body > footer { display: none; } }
 p { margin: 1em 0; }
 
 h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; }

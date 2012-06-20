@@ -103,3 +103,12 @@ a {
     width:100%;
   }
 }
+
+@media print {
+  body {
+    >header,
+    >footer {
+      display:none;
+    }
+  }
+}
