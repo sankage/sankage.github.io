@@ -69,5 +69,4 @@ Software:
 - Earned Infosurv's quarterly Innovation award multiple times
 - Earned Infosurv's quarterly Above and Beyond award
 - Earned Infosurv's quarterly VIP award for Innovation multiple times
-- Created the Infosurv More Awesome Than Wes Award
 - Eagle Scout
