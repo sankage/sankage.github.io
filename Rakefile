@@ -22,17 +22,17 @@ task :deploy => :"deploy:local"
 namespace :deploy do
   desc "Deploy to Local"
   task :local => :build do
-    rsync local_user, "infosurv.com"
+    rsync local_user, "<insert domain here>"
   end
 
   desc "Deploy to Dev"
   task :dev => :build do
-    rsync ssh_user, "dev.infosurv.com"
+    rsync ssh_user, "<insert domain here>"
   end
   
   desc "Deploy to Live"
   task :live => :build do
-    rsync ssh_user, "infosurv.com"
+    rsync ssh_user, "<insert domain here>"
   end
   
   desc "Deploy to Dev and Live"
