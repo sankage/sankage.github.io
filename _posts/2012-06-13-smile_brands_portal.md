@@ -7,7 +7,7 @@ category: Portals
 
 This is a reporting portal for Smile Brands designed and constructed by Infosurv, Inc.
 
-It has gone through 2 major revisions since its original creation, and is consistantly tweeked and edited to the clients specifications.
+It has gone through 2 major revisions since its original creation, and is consistantly tweeked and edited to the clients specifications. The first version was developed in PHP using the CakePHP framework. This newer version is in Ruby using the Ruby on Rails framework.
 
 ### Login
 
