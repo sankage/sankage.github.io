@@ -2,7 +2,7 @@
 layout: post
 title: Survey &amp; Reporting Tool
 date: 2011-09-09 11:37
-category: Design
+category: Development
 ---
 
 A secondary project at Infosurv was to build a Survey and Reporting Tool (SRT). This project was meant to take the place of our existing survey software. My work in the project was in the frontend design and construction. 

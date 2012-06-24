@@ -2,7 +2,7 @@
 layout: post
 title: Infosurv Concept Exchange
 date: 2011-10-13 14:22
-category: Design
+category: Development
 ---
 
 I helped Infosurv develop the Infosurv Concept Exchange (iCE). iCE is a prediction market system that depends on the influences of crowd mentality to predict outcomes in the real world.

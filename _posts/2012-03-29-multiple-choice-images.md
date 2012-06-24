@@ -2,7 +2,7 @@
 layout: post
 title: Multiple Choice Images
 date: 2012-03-29 14:15
-category: Design
+category: Development
 ---
 
 Have you ever taken a survey that used images for answer options? Not only have I, but I have also built those same surveys. They look horrible.
