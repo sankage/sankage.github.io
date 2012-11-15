@@ -4,7 +4,7 @@ layout: default
 
 David Briggs
 ======================================================================
-[dbriggs@me.com](mailto:dbriggs@me.com)  
+[dbriggs@me.com](mailto:dbriggs@me.com)
 github:[@sankage](https://github.com/sankage)
 
 
@@ -56,10 +56,10 @@ WORK EXPERIENCE
 EDUCATION
 ----------------------------------------------------------------------
 
-Bachelor of Business Administration in Management Information Systems  
+Bachelor of Business Administration in Management Information Systems
 - University of West Georgia
 
-Associate Degree of Information Systems  
+Associate Degree of Information Systems
 - Gordon College
 
 
