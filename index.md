@@ -11,8 +11,18 @@ github:[@sankage](https://github.com/sankage)
 WORK EXPERIENCE
 ----------------------------------------------------------------------
 
+### [BKV, Inc.](http://www.bkv.com)
+2012-current
+
+**Web Developer**
+
+* Use of Cloudflare CDN and load-balanced servers to manage a _high-load_ product launch
+* Project development lead on a PHP-based e-commerce site, developing architechture and construction
+* Frontend debugging of client Javascript
+
+
 ### [Infosurv, Inc.](http://www.infosurv.com)
-2010-Current
+2010-2012
 
 **Lead Technical Architect and Developer**
 
