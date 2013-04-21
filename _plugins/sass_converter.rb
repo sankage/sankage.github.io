@@ -1,9 +1,6 @@
 module Jekyll
-  # Sass plugin to convert .scss to .css
-  # 
-  # Note: This is configured to use the new css like syntax available in sass.
-  require 'sass'
   class SassConverter < Converter
+    require 'sass'
     safe true
     priority :low
 
