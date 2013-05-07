@@ -4,7 +4,7 @@ layout: default
 
 David Briggs
 ======================================================================
-[dbriggs@me.com](mailto:dbriggs@me.com)
+[dbriggs@me.com](mailto:dbriggs@me.com)  
 github:[@sankage](https://github.com/sankage)
 
 
@@ -19,6 +19,9 @@ WORK EXPERIENCE
 * Use of Cloudflare CDN and load-balanced servers to manage a _high-load_ product launch
 * Project development lead on a PHP-based e-commerce site, developing architechture and construction
 * Frontend debugging of client Javascript
+* Refactoring legacy JSP site to use clearer syntax and git version control
+* Development and deployment of [BKV case study site](/bkv-case-study-site/) with Jekyll and Rake
+* Contruction of multinational eyewear site using Rails and Redis
 
 
 ### [Infosurv, Inc.](http://www.infosurv.com)
@@ -69,16 +72,16 @@ SPECIAL SKILLS
 Languages:
 
 * **Client-Side:** Javascript _inc. jQuery_, CoffeeScript, HTML, CSS _inc. less+SASS_, XML
-* **Server-Side:** Ruby _inc. Ruby on Rails_, PHP _inc. CakePHP_, nodejs, Java
+* **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, PHP _inc. Codeigniter and CakePHP_, nodejs, Java
 * **Databases:** MySQL, SQLite, PostgreSQL, MongoDB, MS Access, Redis
 
 Software:
 
+* **Editors:** Sublime Text 2, TextMate, Eclipse, Notepad++
+* **Version Control:** git, github
 * **OS:** OSX, Ubuntu Linux, Windows7, WindowsXP
 * **Office:** MS Office, Pages, Keynote, Numbers
 * **Design:** Adobe Creative Suite, MySQL Workbench
-* **Editors:** Sublime Text 2, TextMate, Eclipse, Notepad++
-* **Version Control:** git, github
 
 
 HONORS & ACTIVITIES
