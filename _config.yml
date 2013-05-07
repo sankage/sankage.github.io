@@ -3,7 +3,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ['no_intra_emphasis', 'fenced_code_blocks']
 
-exclude: ['docs', 'Rakefile', 'README.md', 'Gemfile', 'Gemfile.lock', 'css/*.scss']
+exclude: ['CNAME', 'docs', 'Rakefile', 'README.md', 'Gemfile', 'Gemfile.lock', 'css/*.scss']
 
 category_dir: portfolio
 category_title_prefix: ""
