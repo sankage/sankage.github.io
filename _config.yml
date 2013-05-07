@@ -7,3 +7,5 @@ exclude: ['CNAME', 'docs', 'Rakefile', 'README.md', 'Gemfile', 'Gemfile.lock', '
 
 category_dir: portfolio
 category_title_prefix: ""
+
+gauges_id: 50b4215c613f5d058a000065
