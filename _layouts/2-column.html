@@ -11,7 +11,7 @@ layout: default
     <ul>
       <li><a href="/portfolio/recent/">Most Recent</a></li>
       {% for category in site.categories %}
-        <li><a href="/portfolio/{{ category[0] | replace:' ', '-' | downcase  }}">{{ category[0] }}</a></li>
+        <li><a href="/portfolio/{{ category[0] | replace:' ', '-' | downcase  }}">{{ category[0] | capitalize }}</a></li>
       {% endfor %}
       <li><a href="/portfolio/">Archives</a></li>
     </ul>

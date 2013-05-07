@@ -1,8 +1,8 @@
 ---
 layout: 2-column
-title: Design
+title: Development
 ---
-{% for post in site.categories['Development'] limit: 10 %}
+{% for post in site.categories.development limit: 10 %}
 <div class="post">
   <h2>
     <a href="{{ post.url }}">{{ post.title }}</a>
