@@ -1,6 +1,3 @@
-ssh_user   = ''
-local_user = ''
-
 def jekyll(opts="", path="")
   sh "rm -rf _site"
   sh path + "jekyll " + opts
@@ -8,39 +5,12 @@ end
 
 desc "Build site using Jekyll"
 task :build do
-  jekyll
+  jekyll "build"
 end
 
 desc "Serve on Localhost with port 4000"
 task :preview do
-  jekyll "--server 4321 --auto"
-end
-
-desc "Deploy to Dev"
-task :deploy => :"deploy:local"
-
-namespace :deploy do
-  desc "Deploy to Local"
-  task :local => :build do
-    rsync local_user, "<insert domain here>"
-  end
-
-  desc "Deploy to Dev"
-  task :dev => :build do
-    rsync ssh_user, "<insert domain here>"
-  end
-  
-  desc "Deploy to Live"
-  task :live => :build do
-    rsync ssh_user, "<insert domain here>"
-  end
-  
-  desc "Deploy to Dev and Live"
-  task :all => [:dev, :live, :local]
-  
-  def rsync(user, domain)
-    sh "rsync -rtz --delete _site/ #{user}:~/#{domain}/"
-  end
+  jekyll "serve --watch"
 end
 
 namespace :post do

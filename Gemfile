@@ -1,5 +1,7 @@
-source 'http://rubygems.org'
+source 'https://rubygems.org'
 
-gem 'jekyll', '0.11.0'
-gem 'rdiscount'
+gem 'jekyll',     '=1.0.0'
+gem 'liquid',     '=2.5.0'
+gem 'redcarpet',  '=2.2.2'
 gem 'sass'
+gem 'rake'
