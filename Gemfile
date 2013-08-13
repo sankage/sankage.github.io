@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
+ruby '1.9.3'
 
 # GitHub requirements
-gem 'jekyll',     '~> 1.0.2'
-gem 'liquid',     '~> 2.5.0'
-gem 'redcarpet',  '~> 2.2.2'
+gem 'github-pages'
 
 # Local requirements
 gem 'sass'
