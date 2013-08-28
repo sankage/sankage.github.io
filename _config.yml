@@ -1,11 +1,22 @@
 permalink: /:title/
 markdown: redcarpet
 redcarpet:
-  extensions: ['no_intra_emphasis', 'fenced_code_blocks']
+  extensions:
+    - 'no_intra_emphasis'
+    - 'fenced_code_blocks'
 
-exclude: ['CNAME', 'docs', 'Rakefile', 'README.md', 'Gemfile', 'Gemfile.lock', 'css/*.scss']
+exclude:
+  - 'CNAME'
+  - 'docs'
+  - 'Rakefile'
+  - 'README.md'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'css/*.scss'
 
 category_dir: portfolio
 category_title_prefix: ""
 
 gauges_id: 50b4215c613f5d058a000065
+
+relative_permalinks: false
