@@ -1,3 +1,5 @@
+require 'fileutils'
+
 def jekyll(opts="", path="")
   sh "rm -rf _site"
   sh path + "jekyll " + opts
@@ -15,10 +17,9 @@ end
 
 namespace :post do
   desc "Create a new post"
-  task :new, :title do |t, args|
-    args.with_defaults(:title => 'new-post')
-    title = args.title
-    filename = "_posts/#{Time.now.strftime('%Y-%m-%d')}-#{url_from(title)}.md"
+  task :new do |t|
+    title = get_stdin("What is the title of the post? ")
+    filename = "_drafts/#{url_from(title)}.md"
     if File.exist?(filename)
       abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
     end
@@ -32,6 +33,24 @@ namespace :post do
       post.puts "---"
     end
   end
+
+  desc "Publish a draft"
+  task :publish do |t|
+    files = Dir.glob('_drafts/*')
+    files.each_with_index do |file, index|
+      puts "#{index} - #{file}"
+    end
+    unless files.empty?
+      file_num = get_stdin("Which draft (0-#{files.length - 1})? ").to_i
+      filename = File.basename(files[file_num])
+      FileUtils.mv files[file_num], "_posts/#{Time.now.strftime('%Y-%m-%d')}-#{filename}"
+    end
+  end
+end
+
+desc "Copy compiled stylesheet to raw folder for Github"
+task :publish => ["build"] do
+  FileUtils.cp("_site/css/styles.css", "css")
 end
 
 def ask(message, valid_options)
