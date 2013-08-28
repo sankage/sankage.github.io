@@ -22,6 +22,7 @@ WORK EXPERIENCE
 * Refactoring legacy JSP site to use clearer syntax and git version control
 * Development and deployment of [BKV case study site](/bkv-case-study-site/) with Jekyll and Rake
 * Contruction of multinational eyewear site using Rails and Redis
+* [Rebuild of BKV.com](/website-rebuild/) to use Jekyll instead of a CMS
 
 
 ### [Infosurv, Inc.](http://www.infosurv.com)
