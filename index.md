@@ -16,7 +16,7 @@ WORK EXPERIENCE
 
 **Web Developer**
 
-* Use of Cloudflare CDN and load-balanced servers to manage a _high-load_ product launch
+* Use of Cloudflare CDN and load-balanced servers to manage a product launch for AT&T
 * Project development lead on a PHP-based e-commerce site, developing architechture and construction
 * Frontend debugging of client Javascript
 * Refactoring legacy JSP site to use clearer syntax and git version control
@@ -88,6 +88,7 @@ Software:
 HONORS & ACTIVITIES
 ----------------------------------------------------------------------
 
+* Earned numorous BKV peer-review awards
 * Earned Infosurv's quarterly Innovation award multiple times
 * Earned Infosurv's quarterly Above and Beyond award
 * Earned Infosurv's quarterly VIP award for Innovation multiple times
