@@ -32,6 +32,7 @@ namespace :post do
       post.puts "category: "
       post.puts "---"
     end
+    `e #{filename}`
   end
 
   desc "Publish a draft"
