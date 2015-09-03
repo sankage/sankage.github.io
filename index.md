@@ -100,9 +100,9 @@ Languages:
 
 Software:
 
-* **Editors:** Sublime Text 2, TextMate, Eclipse, Notepad++
+* **Editors:** Vim, Atom, Sublime Text 2, TextMate, Eclipse, Notepad++
 * **Version Control:** git, github
-* **OS:** OSX, Ubuntu Linux, Windows7, WindowsXP
+* **OS:** OSX, Ubuntu Linux, Windows
 * **Office:** MS Office, Pages, Keynote, Numbers
 * **Design:** Adobe Creative Suite, MySQL Workbench
 
