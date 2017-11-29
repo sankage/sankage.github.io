@@ -96,8 +96,8 @@ Languages:
 
 - **Client-Side:** Javascript _inc. jQuery_, CoffeeScript, HTML, CSS _inc.
   less+SASS_, XML
-- **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, PHP _inc. Codeigniter
-  and CakePHP_, nodejs, Java
+- **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, Elixir _inc Phoenix_,
+  PHP _inc. Codeigniter and CakePHP_, nodejs, Java
 - **Databases:** MySQL, SQLite, PostgreSQL, MongoDB, MS Access, Redis
 
 Software:
