@@ -1,0 +1,15 @@
+---
+layout: 2-column
+---
+
+{% for post in site.categories[page.category] limit: 10 %}
+
+<div class="post">
+  <h2>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </h2>
+  <div class="details">Posted in {{ post.category }} on {{ post.date | date:"%B %d, %Y" }}</div>
+  {{ post.excerpt }}
+</div>
+
+{% endfor %}

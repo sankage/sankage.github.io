@@ -2,12 +2,12 @@
 layout: post
 title: Multiple Choice Images
 date: 2012-03-29 14:15
-category: Development
+category: development
 ---
 
 Have you ever taken a survey that used images for answer options? Not only have I, but I have also built those same surveys. They look horrible.
 
-![Before](/imgs/iac-before.png)
+![Before](/assets/images/iac-before.png)
 
 Which image corresponds to which checkbox? Once I scroll down a little, I have no idea. Luckily we are using label tags around the images so that all a respondent needs to do is click the image to select a checkbox.
 
@@ -17,13 +17,13 @@ Thinking about it this way, a colleague and I developed some JavaScript code to 
 
 We spent some additional time and fleshed out variable image sizes and their overlay siblings, grid layouts, and exclusive options. With that done we completed version 2:
 
-![After, with nothing checked](/imgs/iac-after-precheck.png)
+![After, with nothing checked](/assets/images/iac-after-precheck.png)
 
 ⇑ With nothing checked.
 
 ⇓ With some things checked.
 
-![After, with some things checked](/imgs/iac-after-postcheck.png)
+![After, with some things checked](/assets/images/iac-after-postcheck.png)
 
 And here is the code:
 

@@ -2,16 +2,16 @@
 layout: post
 title: BKV Case Study Site
 date: 2013-04-08 22:07
-category: Development
+category: development
 ---
 
 This is a small site we created for an RFP to BB&T. As its content was meant to be static, I decided to build it using Jekyll.
 
-![Home page](/imgs/bbt-home.png)
+![Home page](/assets/images/bbt-home.png)
 
 As the possiblity exists to continue to use this design for future uses as well, I decided to use the blogging aspects of Jekyll to hold the case studies.
 
-![Case Study](/imgs/bbt-case-study.png)
+![Case Study](/assets/images/bbt-case-study.png)
 
 - - -
 
@@ -44,8 +44,8 @@ The original design of this site was with a fixed width. I didn't like this. Ove
 
 **iPhone**
 
-![view from iphone](/imgs/bbt-mobile.png)
+![view from iphone](/assets/images/bbt-mobile.png)
 
 **iPad**
 
-![view from ipad](/imgs/bbt-tablet.png)
+![view from ipad](/assets/images/bbt-tablet.png)

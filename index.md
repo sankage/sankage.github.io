@@ -16,8 +16,10 @@ WORK EXPERIENCE
 
 **Senior Web Developer**
 
-* Construction of multiple landers for Aflac powered by Jekyll and Sinatra
-* Creation of a distributor portal using Rails and integrating with PHP site
+- Frontend development of new parent company website
+- Creation of numerous intra-company sites using Ruby on Rails
+- Construction of multiple landers for Aflac powered by Jekyll and Sinatra
+- Creation of a distributor portal using Rails and integrating with PHP site
   using a single sign on system
 
 ### [BKV, Inc.](http://www.bkv.com)
@@ -25,16 +27,16 @@ WORK EXPERIENCE
 
 **Web Developer**
 
-* Use of Cloudflare CDN and load-balanced servers to manage a product launch for
+- Use of Cloudflare CDN and load-balanced servers to manage a product launch for
   AT&T
-* Project development lead on a PHP-based e-commerce site, developing
+- Project development lead on a PHP-based e-commerce site, developing
   architecture and construction
-* Frontend debugging of client Javascript
-* Refactoring legacy JSP site to use clearer syntax and git version control
-* Development and deployment of [BKV case study site](/bkv-case-study-site/)
+- Frontend debugging of client Javascript
+- Refactoring legacy JSP site to use clearer syntax and git version control
+- Development and deployment of [BKV case study site](/bkv-case-study-site/)
   with Jekyll and Rake
-* Construction of multinational eyewear site using Rails and Redis
-* [Rebuild of BKV.com](/website-rebuild/) to use Jekyll instead of a CMS
+- Construction of multinational eyewear site using Rails and Redis
+- [Rebuild of BKV.com](/website-rebuild/) to use Jekyll instead of a CMS
 
 
 ### [Infosurv, Inc.](http://www.infosurv.com)
@@ -42,38 +44,38 @@ WORK EXPERIENCE
 
 **Lead Technical Architect and Developer**
 
-* Use of jQuery, PHP, and MySQL to create [time and task management
+- Use of jQuery, PHP, and MySQL to create [time and task management
   system](/timesheets/)
-* Use of HTML5 and HTML5 polyfills to allow for cross-browser compatibility
-* Create API classes to help speed development using 3rd-party Web Services
-* Co-implement a data-storage server using MySQL and SSL connections with fellow
+- Use of HTML5 and HTML5 polyfills to allow for cross-browser compatibility
+- Create API classes to help speed development using 3rd-party Web Services
+- Co-implement a data-storage server using MySQL and SSL connections with fellow
   employees
-* Database schema design, implementation, and refinement
-* Development of [corporate website redesign](/website-redesign/) using
+- Database schema design, implementation, and refinement
+- Development of [corporate website redesign](/website-redesign/) using
   static-site generation tool Jekyll
-* Frontend development for [survey design, admin, and reporting
+- Frontend development for [survey design, admin, and reporting
   tool](/survey-and-reporting-tool/)
-* Pair programmed with other employees for Javascript development
-* Rebuild of [client reporting tool](/smile_brands_portal/) from CakePHP to
+- Pair programmed with other employees for Javascript development
+- Rebuild of [client reporting tool](/smile_brands_portal/) from CakePHP to
   Ruby-on-Rails
-* Implemented [data visualizations](/charts-and-graphs/) with Raphaël.js
-* Development of cron tasks (rake and php) to update client reporting tools
-* Application deployment using Heroku
-* Machine Learning involving the Naïve Bayesian Classifier
+- Implemented [data visualizations](/charts-and-graphs/) with Raphaël.js
+- Development of cron tasks (rake and php) to update client reporting tools
+- Application deployment using Heroku
+- Machine Learning involving the Naïve Bayesian Classifier
 
 ### [Infosurv, Inc.](http://www.infosurv.com)
 2008-2010
 
 **Technical Guru**
 
-* Designed and built surveys for B2B, B2C, and market research
-* Provided technical support with end users and internal staff
-* Created Excel macros to help speed repetitive tasks, reducing workloads of
+- Designed and built surveys for B2B, B2C, and market research
+- Provided technical support with end users and internal staff
+- Created Excel macros to help speed repetitive tasks, reducing workloads of
   many fellow employees
-* Custom built reporting technologies for surveys with high client interaction
+- Custom built reporting technologies for surveys with high client interaction
   using PHP, jQuery, MySQL and CSS
-* Use of PHP and C# to access vendor Web Services to allow for reporting tools
-* Constant professional development in areas of web design and backend
+- Use of PHP and C# to access vendor Web Services to allow for reporting tools
+- Constant professional development in areas of web design and backend
   development
 
 
@@ -92,26 +94,26 @@ SPECIAL SKILLS
 
 Languages:
 
-* **Client-Side:** Javascript _inc. jQuery_, CoffeeScript, HTML, CSS _inc.
+- **Client-Side:** Javascript _inc. jQuery_, CoffeeScript, HTML, CSS _inc.
   less+SASS_, XML
-* **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, PHP _inc. Codeigniter
+- **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, PHP _inc. Codeigniter
   and CakePHP_, nodejs, Java
-* **Databases:** MySQL, SQLite, PostgreSQL, MongoDB, MS Access, Redis
+- **Databases:** MySQL, SQLite, PostgreSQL, MongoDB, MS Access, Redis
 
 Software:
 
-* **Editors:** Vim, Atom, Sublime Text 2, TextMate, Eclipse, Notepad++
-* **Version Control:** git, github
-* **OS:** OSX, Ubuntu Linux, Windows
-* **Office:** MS Office, Pages, Keynote, Numbers
-* **Design:** Adobe Creative Suite, MySQL Workbench
+- **Editors:** Vim, Atom, Sublime Text 2, TextMate, Eclipse, Notepad++
+- **Version Control:** git, github
+- **OS:** OSX, Ubuntu Linux, Windows
+- **Office:** MS Office, Pages, Keynote, Numbers
+- **Design:** Adobe Creative Suite, MySQL Workbench
 
 
 HONORS & ACTIVITIES
 ----------------------------------------------------------------------
 
-* Earned numorous BKV peer-review awards
-* Earned Infosurv's quarterly Innovation award multiple times
-* Earned Infosurv's quarterly Above and Beyond award
-* Earned Infosurv's quarterly VIP award for Innovation multiple times
-* Eagle Scout
+- Earned numorous BKV peer-review awards
+- Earned Infosurv's quarterly Innovation award multiple times
+- Earned Infosurv's quarterly Above and Beyond award
+- Earned Infosurv's quarterly VIP award for Innovation multiple times
+- Eagle Scout

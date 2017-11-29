@@ -22,7 +22,7 @@ I started by doing an inventory of all the site's current pages to see exactly w
 {% raw %}{% endfor %}{% endraw %}
 ```
 
-![BKV services](/imgs/bkv.services.png)
+![BKV services](/assets/images/bkv.services.png)
 
 As posts are by default ordered by their creation date, I added a [plugin](link to github) to allow ordering posts by any string value set in their YAML Front Matter. In the case of the services I wanted them alphabetized by title.
 
@@ -86,14 +86,14 @@ images:
 </section>
 ```
 
-![BKV project view](/imgs/bkv.project.png)
+![BKV project view](/assets/images/bkv.project.png)
 
 
 ## Layout
 
 I decided to use Coby Chapple's [Gridism](http://cobyism.com/gridism/) for my grid system after seeing it in action on the new [Jekyll site](http://jekyllrb.com/). The simplicity of thinking of the grid in human terms (one-third) instead of number of spans and offsets (span-4 offset-3) of a twelve column grid makes more sense to me and hopefully the next developer.
 
-![BKV new footer](/imgs/bkv.footer.after.png)
+![BKV new footer](/assets/images/bkv.footer.after.png)
 
 
 ## The Future
@@ -140,4 +140,3 @@ end
 Enter a person's name: Testy McTesterton
 Creating new person: _posts/people/2013-08-23-people-testy-mctesterton.md
 ```
-

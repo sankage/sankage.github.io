@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<title>Secret Source of Awesome{% if page.title %} · {{ page.title }}{% endif %}</title>
+<title>Secret Source of Awesome{% if page.title -%} · {{ page.title }}{% endif -%}</title>
 <meta name="viewport" content="width=device-width">
-<link rel="stylesheet" href="/css/styles.css">
-{% include header.html %}
+<link rel="stylesheet" href="/assets/main.css">
+{% include header.html -%}
 <div class="content">
   <section>{{ content }}</section>
 </div>
-{% include footer.html %}
-{% include analytics.html %}
+{% include footer.html -%}
+{% include analytics.html -%}

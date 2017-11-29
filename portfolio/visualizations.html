@@ -1,15 +1,5 @@
 ---
-layout: 2-column
+layout: category
 title: Visualizations
-permalink: /portfolio/visualizations/
+category: visualizations
 ---
-{% for post in site.categories.visualizations limit: 10 %}
-<div class="post">
-  <h2>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </h2>
-  <div class="details">Posted in {{ post.category }} on {{ post.date | date:"%B %d, %Y" }}</div>
-  {{ post.excerpt | markdownify | html_truncatewords }}
-</div>
-<hr>
-{% endfor %}
