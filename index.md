@@ -11,12 +11,25 @@ github:[@sankage](https://github.com/sankage)
 WORK EXPERIENCE
 ----------------------------------------------------------------------
 
-### [BKV, Inc.](http://www.bkv.com)
-2014-current
+
+### [DRUM Agency](http://www.drumagency.com)
+2017-2018
 
 **Senior Web Developer**
 
-- Frontend development of new parent company website
+- Frontend development of new parent company website using Jekyll
+- Construction of data aggregator for Google Analytics, DoubleClick Campaign
+  Manager, and DoubleClick Search using Ruby on Rails and Sidekiq
+- Consistently added new features to an internal client-focused web application
+  using Javascript and Ruby
+
+### [BKV, Inc.](http://www.bkv.com)
+2014-2017
+
+**Senior Web Developer**
+
+- Construction of a Google API-backed email signature creation job to replace
+  a costly third party tool
 - Creation of numerous intra-company sites using Ruby on Rails
 - Construction of multiple landers for Aflac powered by Jekyll and Sinatra
 - Creation of a distributor portal using Rails and integrating with PHP site
@@ -95,7 +108,7 @@ SPECIAL SKILLS
 Languages:
 
 - **Client-Side:** Javascript _inc. jQuery_, CoffeeScript, HTML, CSS _inc.
-  less+SASS_, XML
+  SASS+less_, XML
 - **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, Elixir _inc Phoenix_,
   PHP _inc. Codeigniter and CakePHP_, nodejs, Java
 - **Databases:** MySQL, SQLite, PostgreSQL, MongoDB, MS Access, Redis
@@ -103,7 +116,7 @@ Languages:
 Software:
 
 - **Editors:** Vim, Atom, Sublime Text 2, TextMate, Eclipse, Notepad++
-- **Version Control:** git, github
+- **Version Control:** git, github, bitbucket
 - **OS:** OSX, Ubuntu Linux, Windows
 - **Office:** MS Office, Pages, Keynote, Numbers
 - **Design:** Adobe Creative Suite, MySQL Workbench
