@@ -17,11 +17,13 @@ WORK EXPERIENCE
 
 **Senior Web Developer**
 
-- Frontend development of new parent company website using Jekyll
+- Frontend development of new parent company website using Jekyll, HTML,
+  JavaScript, and CSS via Sass
 - Construction of data aggregator for Google Analytics, DoubleClick Campaign
-  Manager, and DoubleClick Search using Ruby on Rails and Sidekiq
-- Consistently added new features to an internal client-focused web application
-  using Javascript and Ruby
+  Manager, and DoubleClick Search using Ruby on Rails, Sidekiq, PostgreSQL, and
+  version controlled via Git and GitHub
+- Consistently adding new features to an internal client-focused web application
+  using Ruby, HTML, Sass, JavaScript
 
 ### [BKV, Inc.](http://www.bkv.com)
 2014-2017
@@ -29,11 +31,15 @@ WORK EXPERIENCE
 **Senior Web Developer**
 
 - Construction of a Google API-backed email signature creation job to replace
-  a costly third party tool
-- Creation of numerous intra-company sites using Ruby on Rails
-- Construction of multiple landers for Aflac powered by Jekyll and Sinatra
-- Creation of a distributor portal using Rails and integrating with PHP site
-  using a single sign on system
+  a costly third party tool using Ruby and Heroku Scheduling
+- Creation of numerous intra-company sites using Ruby on Rails, HTML, Sass,
+  JavaScript
+- Construction of multiple landers for Aflac powered by Jekyll and Sinatra,
+  HTML, JavaScript, Sass
+- Creation of a distributor portal using Rails, JavaScript, Sass and
+  integrating with PHP site using a single sign on system via HMAC-signed 
+  messages
+- Dynamic page and event tracking using Google Tag Manager and JavaScript
 
 ### [BKV, Inc.](http://www.bkv.com)
 2012-2014
@@ -43,7 +49,7 @@ WORK EXPERIENCE
 - Use of Cloudflare CDN and load-balanced servers to manage a product launch for
   AT&T
 - Project development lead on a PHP-based e-commerce site, developing
-  architecture and construction
+  architecture and construction using jQuery, Sass, MySQL
 - Frontend debugging of client Javascript
 - Refactoring legacy JSP site to use clearer syntax and git version control
 - Development and deployment of [BKV case study site](/bkv-case-study-site/)

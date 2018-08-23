@@ -5,7 +5,7 @@ date: 2013-08-27 23:33
 category: development
 ---
 
-It all started as a spare time project. We had moved the blogging features of BKV.com into a Wordpress site, but left everything else to exist in a CMS. As working in the CMS was proving to be more problematic day to day, I decided to see what it would take to move the remaining site (almost entirely static content) into a static site generator. Its time to start mixing chemicals Dr. Jekyll.
+It all started as a spare time project. We had moved the blogging features of BKV.com into a Wordpress site, but left everything else to exist in a separate CMS. As working in the CMS was proving to be more problematic day to day, I decided to see what it would take to move the remaining site (almost entirely static content) into a static site generator. Its time to start mixing chemicals Dr. Jekyll.
 
 I started by doing an inventory of all the site's current pages to see exactly what was going to be needed to be rebuilt. I noticed that we had some distinct clusters of data and decided to use Jekyll's built-in blogging features to handle them. By setting specific categories to groups of posts I am able to loop through just that category for index views.
 
