@@ -10,7 +10,18 @@ github:[@sankage](https://github.com/sankage)
 
 WORK EXPERIENCE
 ----------------------------------------------------------------------
+### [Medlytix](https://www.medlytix.com)
+2018-Current
 
+**Software Developer**
+
+- Maintenance, optimization, updating, and cleanup of existing Ruby on Rails
+  application
+- Adding new features to Ruby on Rails applications using Ruby, HTML, Sass,
+  JavaScript
+- Creating and updating Perl and Python scripts
+- Construction of front-end application using VueJS to interact with API
+  developed by other team members
 
 ### [DRUM Agency](http://www.drumagency.com)
 2017-2018
@@ -37,7 +48,7 @@ WORK EXPERIENCE
 - Construction of multiple landers for Aflac powered by Jekyll and Sinatra,
   HTML, JavaScript, Sass
 - Creation of a distributor portal using Rails, JavaScript, Sass and
-  integrating with PHP site using a single sign on system via HMAC-signed 
+  integrating with PHP site using a single sign on system via HMAC-signed
   messages
 - Dynamic page and event tracking using Google Tag Manager and JavaScript
 
@@ -115,15 +126,15 @@ Languages:
 
 - **Client-Side:** Javascript _inc. jQuery_, CoffeeScript, HTML, CSS _inc.
   SASS+less_, XML
-- **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, Elixir _inc Phoenix_,
-  PHP _inc. Codeigniter and CakePHP_, nodejs, Java
-- **Databases:** MySQL, SQLite, PostgreSQL, MongoDB, MS Access, Redis
+- **Server-Side:** Ruby _inc. Ruby on Rails and Sinatra_, Perl, Python, Elixir
+  _inc Phoenix_, PHP _inc. Codeigniter and CakePHP_, nodejs, Java
+- **Databases:** PostgreSQL, MySQL, SQLite, MongoDB, MS Access, Redis
 
 Software:
 
 - **Editors:** Vim, Atom, Sublime Text 2, TextMate, Eclipse, Notepad++
 - **Version Control:** git, github, bitbucket
-- **OS:** OSX, Ubuntu Linux, Windows
+- **OS:** OSX, Amazon Linux Workspace, Ubuntu Linux, Windows
 - **Office:** MS Office, Pages, Keynote, Numbers
 - **Design:** Adobe Creative Suite, MySQL Workbench
 
@@ -131,7 +142,7 @@ Software:
 HONORS & ACTIVITIES
 ----------------------------------------------------------------------
 
-- Earned numorous BKV peer-review awards
+- Earned numerous BKV peer-review awards
 - Earned Infosurv's quarterly Innovation award multiple times
 - Earned Infosurv's quarterly Above and Beyond award
 - Earned Infosurv's quarterly VIP award for Innovation multiple times
